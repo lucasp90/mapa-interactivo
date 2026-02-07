@@ -3,6 +3,9 @@ import { useEffect, useState } from "react";
 import L from "leaflet";
 import { computeBoundsAndCenter } from "./utils/map";
 import FitAndCenter from "./components/FitAndCenter";
+// Font Awesome React setup and component
+import "./fontawesome";
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { DEFAULT_ZOOM, MIN_ZOOM, DEFAULT_HEADER_HEIGHT, DEFAULT_ZOOM_DELTA } from "./config/mapConstants";
 
 const markerIcon = new L.Icon({
@@ -71,8 +74,9 @@ export default function App() {
                     href={p.link}
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ color: "#0066cc", fontWeight: "bold" }}
+                    style={{ color: "#0066cc", fontWeight: "bold", display: 'inline-flex', alignItems: 'center' }}
                   >
+                    <FontAwesomeIcon icon={["fas", "globe"]} style={{ marginRight: 8 }} />
                     Leer más →
                   </a>
                 )}
