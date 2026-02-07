@@ -53,8 +53,7 @@ export default function App() {
 
         {puntos.map((p, i) => (
           <Marker
-            key={i}
-            position={[p.lat, p.lng]}
+            key={p.id} position={[p.lat, p.lng]}
             icon={markerIcon}
           >
 <Popup>

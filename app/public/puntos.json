@@ -1,15 +1,66 @@
-{
-  "zona": {
-    "nombre": "Barrio de Boedo",
-    "descripcion": "Recorrido cultural e histórico por el corazón del barrio."
+[
+  {
+    "id": "cafe-margot",
+    "title": "Café Margot",
+    "address": "Pasaje San Ignacio esq. Boedo",
+    "lat": -34.6282,
+    "lng": -58.4177,
+    "link": "/lugares.html#cafe-margot"
   },
-  "puntos": [
-    {
-      "nombre": "Esquina Histórica de Boedo",
-      "descripcion": "Este cruce de avenidas es uno de los corazones culturales del barrio de Boedo.",
-      "lat": -34.6309,
-      "lng": -58.4157,
-      "pagina": "/poi/boedo-esquina.html"
-    }
-  ]
-}
+  {
+    "id": "editorial-claridad",
+    "title": "Editorial Claridad",
+    "address": "Boedo 837",
+    "lat": -34.6279,
+    "lng": -58.4189,
+    "link": "/lugares.html#editorial-claridad"
+  },
+  {
+    "id": "subte-san-juan-boedo-banco",
+    "title": "Boca de subte San Juan y Boedo (Banco Francés)",
+    "address": "San Juan y Boedo",
+    "lat": -34.6287,
+    "lng": -58.4205,
+    "link": "/lugares.html#subte-banco"
+  },
+  {
+    "id": "san-juan-boedo-sur",
+    "title": "San Juan y Boedo (Pizzería Sur)",
+    "address": "San Juan y Boedo",
+    "lat": -34.6286,
+    "lng": -58.4201,
+    "link": "/lugares.html#pizzeria-sur"
+  },
+  {
+    "id": "galeria-boedo-969",
+    "title": "Galería Boedo 969",
+    "address": "Boedo 969",
+    "lat": -34.6284,
+    "lng": -58.4200,
+    "link": "/lugares.html#galeria-969"
+  },
+  {
+    "id": "horacio-quiroga",
+    "title": "Casa de Horacio Quiroga",
+    "address": "Boedo al 1200",
+    "lat": -34.6294,
+    "lng": -58.4224,
+    "link": "/lugares.html#horacio-quiroga"
+  },
+  {
+    "id": "boedo-1300",
+    "title": "Boedo al 1300",
+    "address": "Boedo al 1300",
+    "lat": -34.6298,
+    "lng": -58.4235,
+    "link": "/lugares.html#boedo-1300"
+  },
+  {
+    "id": "maza-1500",
+    "title": "Maza 1500",
+    "address": "Maza 1500",
+    "lat": -34.6308,
+    "lng": -58.4256,
+    "link": "/lugares.html#maza-1500"
+  }
+]
