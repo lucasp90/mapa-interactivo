@@ -3,64 +3,64 @@
     "id": "cafe-margot",
     "title": "Café Margot",
     "address": "Pasaje San Ignacio esq. Boedo",
-    "lat": -34.6282,
-    "lng": -58.4177,
+    "lat": -34.623215038886826,
+    "lng": -58.416243123264664,
     "link": "/lugares.html#cafe-margot"
   },
   {
     "id": "editorial-claridad",
     "title": "Editorial Claridad",
     "address": "Boedo 837",
-    "lat": -34.6279,
-    "lng": -58.4189,
+    "lat": -34.62285411123431,
+    "lng": -58.416506645970294,
     "link": "/lugares.html#editorial-claridad"
   },
   {
     "id": "subte-san-juan-boedo-banco",
     "title": "Boca de subte San Juan y Boedo (Banco Francés)",
     "address": "San Juan y Boedo",
-    "lat": -34.6287,
-    "lng": -58.4205,
+    "lat": -34.625128090462105,
+    "lng": -58.41589310953537,
     "link": "/lugares.html#subte-banco"
   },
   {
     "id": "san-juan-boedo-sur",
     "title": "San Juan y Boedo (Pizzería Sur)",
     "address": "San Juan y Boedo",
-    "lat": -34.6286,
-    "lng": -58.4201,
+    "lat": -34.62554443713696,
+    "lng": -58.41627691326589,
     "link": "/lugares.html#pizzeria-sur"
   },
   {
     "id": "galeria-boedo-969",
     "title": "Galería Boedo 969",
     "address": "Boedo 969",
-    "lat": -34.6284,
-    "lng": -58.4200,
+    "lat": -34.62507152130886,
+    "lng": -58.416526429800804,
     "link": "/lugares.html#galeria-969"
   },
   {
     "id": "horacio-quiroga",
-    "title": "Casa de Horacio Quiroga",
+    "title": "Horacio Quiroga",
     "address": "Boedo al 1200",
-    "lat": -34.6294,
-    "lng": -58.4224,
+    "lat": -34.62809805618492,
+    "lng": -58.415817340334414,
     "link": "/lugares.html#horacio-quiroga"
   },
   {
     "id": "boedo-1300",
     "title": "Boedo al 1300",
     "address": "Boedo al 1300",
-    "lat": -34.6298,
-    "lng": -58.4235,
+    "lat": -34.629163556682236,
+    "lng": -58.41583749444641,
     "link": "/lugares.html#boedo-1300"
   },
   {
     "id": "maza-1500",
     "title": "Maza 1500",
     "address": "Maza 1500",
-    "lat": -34.6308,
-    "lng": -58.4256,
+    "lat": -34.629106382837556, 
+    "lng": -58.41444588444976,
     "link": "/lugares.html#maza-1500"
   }
 ]
